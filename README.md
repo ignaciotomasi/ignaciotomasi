@@ -1,6 +1,6 @@
 -👋Hi, my name is Ignacio Gabriel Tomasi
 
--👀 I'm a tech and car enthusiast, indoor soccer player and content creator
+-👀 I'm a tech and car enthusiast, indoor football player and content creator
 
 -🌱 19 years old, in my first year of my Technical Degree in Programming (UTN)
 
