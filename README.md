@@ -2,7 +2,7 @@
 
 -👀 I'm a tech and car enthusiast, indoor soccer player and content creator
 
--🌱 19 years old, in my first year of my technical degree in programming (UTN)
+-🌱 19 years old, in my first year of my Technical Degree in Programming (UTN)
 
 -🧉 Born and raised in Buenos Aires, Argentina
 
