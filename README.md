@@ -1,8 +1,13 @@
 -👋Hi, my name is Ignacio Gabriel Tomasi
+
 -👀 I'm a tech and car enthusiast, indoor soccer player and content creator
+
 -🌱 19 years old, in my first year of my technical degree in programming (UTN)
+
 -🧉 Born and raised in Buenos Aires, Argentina
+
 -📫 How to reach me: ignaciogabrieltomasi@gmail.com www.instagram.com/ignacio_tomasi
+
 -🔤 We can talk in Spanish, English, Italian or Portuguese
 
 <!--
